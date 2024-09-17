@@ -4,32 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0fd421dc-6e4e-47ab-9b8f-ff2b8e96251e" name="Changes" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inventoryService.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/java/com/example/inventory/service/InventoryService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/src/main/resources/db/migration/V1__init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/src/test/java/com/example/inventory/TestcontainersConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/target/classes/com/example/inventory/InventoryServiceApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/target/classes/com/example/inventory/controller/InventoryController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/target/classes/com/example/inventory/model/Inventory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/target/classes/com/example/inventory/repository/InventoryRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/target/classes/com/example/inventory/service/InventoryService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/target/classes/db/migration/V1__init.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/target/classes/db/migration/V2__add_inventory.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/target/test-classes/com/example/inventory/InventoryServiceApplicationTests.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/target/test-classes/com/example/inventory/TestInventoryServiceApplication.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inventory-service/target/test-classes/com/example/inventory/TestcontainersConfiguration.class" afterDir="false" />
-    </list>
+    <list default="true" id="0fd421dc-6e4e-47ab-9b8f-ff2b8e96251e" name="Changes" comment="Initial Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +57,7 @@
     "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "Spring Boot.InventoryServiceApplication.executor": "Run",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "inventory-service",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -167,7 +142,7 @@
       <workItem from="1726597383624" duration="2000" />
       <workItem from="1726597564778" duration="5000" />
       <workItem from="1726597647248" duration="5000" />
-      <workItem from="1726597679046" duration="457000" />
+      <workItem from="1726597679046" duration="935000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <option name="closed" value="true" />
@@ -185,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726595443830</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <option name="closed" value="true" />
+      <created>1726598576875</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726598576875</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,7 +179,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="inventory-service" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
